@@ -1,107 +1,80 @@
-🚀 Overview
-
-This project focuses on developing a market segmentation framework and go-to-market (GTM) strategy to guide infrastructure modernization across diverse enterprise clients. The goal was to identify which customer segments were most ready for modernization and match each with the right AWS migration tools, paths, and GTM motions.
-
-📘 View Complete Case Study & Architecture Diagram →
-
 🧩 Problem Statement
 
 A mid-size cloud solutions firm was experiencing low conversion rates in its infrastructure modernization pipeline.
-Despite increasing demand for cloud adoption, all customers were treated as equally ready for full migration — leading to inefficient outreach, mismatched proposals, and poor conversion.
+Despite rising cloud demand, every customer was treated as equally ready for full migration — resulting in inefficient outreach, mismatched proposals, and low win rates.
 
-The business needed:
+The business needed to:
 
-A readiness-based segmentation framework
-
-Technical mapping to AWS services per maturity level
-
-GTM playbooks that could align marketing, sales, and migration teams
+✅ Create a readiness-based segmentation framework
+✅ Map AWS services to each segment’s technical maturity
+✅ Design GTM playbooks aligning sales, marketing, and migration teams
 
 🔍 Approach
-1. Segmentation + Technical Mapping Framework
+1️⃣ Segmentation + Technical Mapping Framework
 
-Developed a 4-tier segmentation model based on:
+Developed a four-tier segmentation model based on:
 
-Current Infrastructure State (On-Prem, Hybrid, Cloud-Native)
+Current Infrastructure State: On-Prem, Hybrid, Cloud-Native
+IT Headcount + Budget: Readiness and scalability potential
+Industry Constraints: Compliance, data residency, security
+Pace of Change Tolerance: Risk appetite and digital maturity
+Each customer segment was mapped to a migration path and AWS toolset:
+Cloud-Native: High-readiness, developer-led enterprises → focused on API-first adoption using EC2, Lambda, and S3
+Lift & Shift: Legacy app customers → leveraged MGN, Snowball, and Migration Hub with ROI-driven campaigns
+Hybrid-Heavy: Gradual adopters → guided by Control Tower, IAM, and VPC workshops
+Regulated Industries: Compliance-heavy clients → supported through Shield, CloudTrail, and Config with partner-led GTM tracks
 
-IT Headcount + Budget
+2️⃣ AWS Tools Integration
 
-Industry Constraints (Compliance, Security, Data Residency)
+Mapped AWS tools and services to modernization maturity:
 
-Pace of Change Tolerance (Risk Appetite + Digital Maturity)
+🔹 AWS Migration Hub: Centralized migration tracking
 
-Each segment was mapped to a suitable migration path and AWS toolset.
+🔹 AWS Application Migration Service (MGN): Lift-and-shift workloads
 
-Segment Type	Key Traits	AWS Services Used	GTM Strategy
-Cloud-Native	High readiness, developer-led	EC2, Lambda, S3	API-first messaging, Dev outreach
-Lift & Shift	Legacy apps, cost-sensitive	MGN, Snowball, Migration Hub	ROI-focused campaigns
-Hybrid-Heavy	Gradual adopters	Control Tower, IAM, VPC	Hybrid playbooks, workshops
-Regulated	Compliance-driven	Shield, CloudTrail, Config	Partner-led, compliance GTM
-2. AWS Tools Integration
+🔹 AWS Snowball: Secure bulk data transfer
 
-Mapped specific AWS tools and services to align with migration maturity:
+🔹 AWS Control Tower + IAM: Multi-account governance and policy control
 
-AWS Migration Hub – Centralized tracking
+🔹 Amazon QuickSight: Executive dashboards for GTM analytics
 
-AWS Application Migration Service (MGN) – Lift-and-shift workloads
+🔹 AWS TCO Calculator + Cost Explorer: Business case and ROI modeling
 
-AWS Snowball – Secure data transfer
+3️⃣ GTM Strategy Design
 
-AWS Control Tower + IAM – Multi-account governance
+Developed customized GTM playbooks for each segment:
 
-Amazon QuickSight – Executive dashboards for GTM analytics
-
-AWS TCO Calculator + Cost Explorer – Business case development
-
-3. GTM Strategy Design
-
-Each customer segment received a tailored GTM playbook:
-
-Cloud-Native: Developer community campaigns, code-ready demos
-
-Lift & Shift: ROI-driven case studies and bundled migration offers
-
-Hybrid: Architecture blueprints, workshops, and co-branding initiatives
-
-Regulated: Partner alliances and compliance-led engagement tracks
+Cloud-Native: Developer community outreach, API demos, self-service onboarding
+Lift & Shift: ROI-focused case studies and bundled migration offers
+Hybrid: Workshops, architecture blueprints, and hybrid cloud guides
+Regulated: Compliance assurance messaging and long-run engagement tracks
 
 ⚙️ Tech Stack
 
 AWS Services:
 
 AWS Migration Hub
-
 AWS Application Migration Service (MGN)
-
 AWS Snowball
-
 AWS Control Tower
-
 Amazon QuickSight
-
 AWS Cost Explorer
 
 Tools & Frameworks:
 
 Python
-
 Excel
-
 Tableau
-
 AWS TCO Calculator
 
 📈 Results
 
 🎯 22% improvement in lead-to-conversion rates in pilot markets
-
-🔧 Reduced migration risk by aligning tools with technical readiness
-
-📊 Enabled data-driven GTM decisions with QuickSight visual dashboards
-
-🚀 Created a repeatable, scalable playbook for AWS modernization projects
+🔧 Reduced migration risk by aligning tooling with technical readiness
+📊 Enabled data-driven GTM decisions using QuickSight dashboards
+🚀 Created a repeatable, scalable playbook for AWS modernization
 
 🧠 Business Impact
 
-The segmentation framework empowered the firm to prioritize prospects based on technical and strategic readiness — improving efficiency across sales, marketing, and engineering.
-By aligning modernization journeys with AWS services, the company achieved higher client satisfaction, faster migrations, and improved return on investment.
+The segmentation framework empowered the firm to prioritize prospects by technical readiness and strategic fit, boosting efficiency across marketing, sales, and engineering.
+By aligning modernization journeys with AWS services, the company achieved faster migrations, stronger client trust, and measurable ROI gains.
