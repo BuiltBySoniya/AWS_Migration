@@ -1,9 +1,9 @@
-🧩 Problem Statement
+# 🧩 Problem Statement
 
 A mid-size cloud solutions firm was experiencing low conversion rates in its infrastructure modernization pipeline.
 Despite rising cloud demand, every customer was treated as equally ready for full migration — resulting in inefficient outreach, mismatched proposals, and low win rates.
 
-The business needed to:
+## The business needed to:
 
 ✅ Create a readiness-based segmentation framework
 
@@ -11,9 +11,9 @@ The business needed to:
 
 ✅ Design GTM playbooks aligning sales, marketing, and migration teams
 
-🔍 Approach
+## 🔍 Approach
 
-1️⃣ Segmentation + Technical Mapping Framework
+### 1️⃣ Segmentation + Technical Mapping Framework
 
 Developed a four-tier segmentation model based on:
 
@@ -27,7 +27,7 @@ Lift & Shift: Legacy app customers → leveraged MGN, Snowball, and Migration Hu
 Hybrid-Heavy: Gradual adopters → guided by Control Tower, IAM, and VPC workshops
 Regulated Industries: Compliance-heavy clients → supported through Shield, CloudTrail, and Config with partner-led GTM tracks
 
-2️⃣ AWS Tools Integration
+### 2️⃣ AWS Tools Integration
 
 Mapped AWS tools and services to modernization maturity:
 
@@ -43,7 +43,7 @@ Mapped AWS tools and services to modernization maturity:
 
 🔹 AWS TCO Calculator + Cost Explorer: Business case and ROI modeling
 
-3️⃣ GTM Strategy Design
+### 3️⃣ GTM Strategy Design
 
 Developed customized GTM playbooks for each segment:
 
@@ -54,7 +54,7 @@ Regulated: Compliance assurance messaging and long-run engagement tracks
 
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 AWS Services:
 
@@ -65,7 +65,7 @@ AWS Control Tower
 Amazon QuickSight
 AWS Cost Explorer
 
-Tools & Frameworks:
+## ⚙️Tools & Frameworks:
 
 Python
 Excel
@@ -74,7 +74,7 @@ AWS TCO Calculator
 
 
 
-📈 Results
+## ⚙️📈 Results
 
 🎯 22% improvement in lead-to-conversion rates in pilot markets
 🔧 Reduced migration risk by aligning tooling with technical readiness
@@ -82,7 +82,7 @@ AWS TCO Calculator
 🚀 Created a repeatable, scalable playbook for AWS modernization
 
 
-🧠 Business Impact
+## 🧠 Business Impact
 
 The segmentation framework empowered the firm to prioritize prospects by technical readiness and strategic fit, boosting efficiency across marketing, sales, and engineering.
 By aligning modernization journeys with AWS services, the company achieved faster migrations, stronger client trust, and measurable ROI gains.
