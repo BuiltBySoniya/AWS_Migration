@@ -50,6 +50,7 @@ Lift & Shift: ROI-focused case studies and bundled migration offers
 Hybrid: Workshops, architecture blueprints, and hybrid cloud guides
 Regulated: Compliance assurance messaging and long-run engagement tracks
 
+
 ⚙️ Tech Stack
 
 AWS Services:
