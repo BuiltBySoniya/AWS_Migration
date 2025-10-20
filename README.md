@@ -10,6 +10,7 @@ The business needed to:
 ✅ Design GTM playbooks aligning sales, marketing, and migration teams
 
 🔍 Approach
+
 1️⃣ Segmentation + Technical Mapping Framework
 
 Developed a four-tier segmentation model based on:
@@ -67,12 +68,14 @@ Excel
 Tableau
 AWS TCO Calculator
 
+
 📈 Results
 
 🎯 22% improvement in lead-to-conversion rates in pilot markets
 🔧 Reduced migration risk by aligning tooling with technical readiness
 📊 Enabled data-driven GTM decisions using QuickSight dashboards
 🚀 Created a repeatable, scalable playbook for AWS modernization
+
 
 🧠 Business Impact
 
