@@ -6,7 +6,9 @@ Despite rising cloud demand, every customer was treated as equally ready for ful
 The business needed to:
 
 ✅ Create a readiness-based segmentation framework
+
 ✅ Map AWS services to each segment’s technical maturity
+
 ✅ Design GTM playbooks aligning sales, marketing, and migration teams
 
 🔍 Approach
@@ -51,6 +53,7 @@ Hybrid: Workshops, architecture blueprints, and hybrid cloud guides
 Regulated: Compliance assurance messaging and long-run engagement tracks
 
 
+
 ⚙️ Tech Stack
 
 AWS Services:
@@ -68,6 +71,7 @@ Python
 Excel
 Tableau
 AWS TCO Calculator
+
 
 
 📈 Results
